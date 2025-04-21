@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.violetyy.modid.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "TemplateMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

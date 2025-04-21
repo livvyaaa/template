@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "modid",
   "version": "${version}",
-  "name": "Attack Cooldown Resync",
+  "name": "modname",
   "description": "",
   "authors": [],
   "contact": {},
